@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneet2025" alt="puneet2025" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack**
 
 - 💬 Ask me about **Java, Node, React, Ejs**
@@ -15,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/puneet agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneet agrawal" height="30" width="40" /></a>
-<a href="https://fb.com/puneet agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="puneet agrawal" height="30" width="40" /></a>
-<a href="https://instagram.com/ipuneetagrawal_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ipuneetagrawal_20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/puneet agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="puneet agrawal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/puneet-agrawal-90aaa8220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/puneet-agrawal-90aaa8220/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/puneet.agrawal.5680/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/puneet.agrawal.5680/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/ipuneetagrawal_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ipuneetagrawal_20/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/puneet_20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/puneet_20/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
